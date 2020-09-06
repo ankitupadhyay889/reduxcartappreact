@@ -28,6 +28,45 @@
   color: #61dafb;
 }
 
+/* */
+
+.btn{
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  color: white;
+  border-radius: 4px;
+}
+
+.imghai img{
+  width: 100px;
+  margin: -10px;
+}
+
+.cart{
+  height: 100px;
+  width: 500px;
+  border: 1px solid white;
+  margin-left: 10%;
+}
+
+.item{
+  float: left;
+  display: inline-block;
+  width: 120px;
+  padding: 20px;
+  height: 70px;
+}
+
+.add img{
+  width: 80px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
+
+/* */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
