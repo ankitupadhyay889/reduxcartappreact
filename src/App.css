@@ -65,6 +65,20 @@
   top: 1%;
 }
 
+.cart-count{
+  
+  position: absolute;
+  right: 17px;
+  top: 17px;
+  z-index: 1;
+  background-color: red;
+  padding: 15px;
+  width: 40px;
+  height: 35px;
+  border-radius: 50%;
+  color: #fff;
+}
+
 /* */
 
 @keyframes App-logo-spin {
